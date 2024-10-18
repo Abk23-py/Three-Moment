@@ -1,0 +1,21 @@
+Instructions:
+
+
+1. Make sure Anaconda is installed on your P.C
+
+2. Check whether you have the 'requirements.txt' file. 
+
+3. Search 'Anaconda Prompt' on your P.C and open it
+
+4. Navigate to the directory where your 'requirements.txt' file is 
+
+5. Type 'pip install -r requirements.txt' 
+
+6. Close the window and Open Spyder
+
+7. Type 'import plotly' in the console of spyder to confirm the installation
+
+8. Run the 'beam_project.py' code. 
+
+NOTE: Make sure all the files you downloaded from Google drive are in one folder. 
+
